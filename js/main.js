@@ -1,7 +1,7 @@
 "use strict";
 
 $(`document`).ready(() => {
-  // partners
+  // categories
   $(".categories .owl-carousel").owlCarousel({
     loop: true,
     margin: 20,
